@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/SensorAPI/SensorAPI.csproj" />
     <Project Path="src/SensorSimulator/SensorSimulator.csproj" />
   </Folder>
 </Solution>
